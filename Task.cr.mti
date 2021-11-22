@@ -1,0 +1,11 @@
+D:/MS-42/temp/msim/SecondFile.vhd {1 {vcom -work work -2002 -explicit -vopt D:/MS-42/temp/msim/SecondFile.vhd
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 11:19:46 on Nov 22,2021
+vcom -reportprogress 300 -work work -2002 -explicit -vopt D:/MS-42/temp/msim/SecondFile.vhd 
+-- Loading package STANDARD
+-- Compiling entity test_main
+-- Compiling architecture behavior of test_main
+End time: 11:19:46 on Nov 22,2021, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}}
