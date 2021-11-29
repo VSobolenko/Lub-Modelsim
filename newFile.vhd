@@ -5,12 +5,26 @@ end main;
 
 architecture fun of main is
 	begin 
-	s1 <= (x1 or (not(x2)) or x3 or (not(x4))) and (x1 or (not (x2))
-		or (not (x3)) or x4) and ((not (x1)) or x2 or x3 or
-		(not (x4)));
-	s2 <= (x1 or x3 or x4) and (x1 or (not (x2)) or (not (x3)) or
-		(not (x4))) and ((not (x1)) or (not (x2)) or x3 or 
-		(not (x4)));
-	s3 <= (x2 or x3 or x4) and ((not (x1)) or x2 or x4) and (x1 or (not 
-		(x2)) or x3 or (not (x4)));
+	s1 <= ((not (x1)) and x2 and (not (x3)) and (not (x4))) or
+		((not (x1)) and x2 and x3 and x4) or
+		(x1 and (not (x2)) and x3 and (not (x4))) or
+		(x1 and (not (x2)) and x3 and x4) or
+		(x1 and x2 and (not (x3)) and x4) or 
+		(x1 and x2 and x3 and (not (x4))) or
+		(x1 and x2 and x3 and x4);
+	s2 <= ( (not (x1)) and (not (x2)) and x3 and (not (x4)) ) or
+		( (not (x1)) and (not (x2)) and x3 and x4 ) or
+		( (not (x1)) and x2 and (not (x3)) and x4 ) or
+		( (not (x1)) and x2 and x3 and (not (x4)) ) or
+		( x1 and (not (x2)) and (not (x3)) and (not (x4)) ) or
+		( x1 and (not (x2)) and (not (x3)) and x4 ) or
+		( x1 and x2 and (not (x3)) and (not (x4)) ) or
+		( x1 and x2 and x3 and x4 );
+	s3 <= ( (not (x1)) and (not (x2)) and (not (x3)) and x4 ) or
+		( (not (x1)) and (not (x2))  and x3 and x4 ) or
+		( (not (x1)) and x2 and x3 and (not (x4)) ) or
+		( x1 and (not (x2)) and (not (x3)) and x4) or
+		( x1 and (not (x2)) and x3 and x4 ) or
+		( x1 and x2 and (not (x3)) and (not (x4))) or
+		( x1 and x2 and x3 and (not (x4))); 
 end fun;

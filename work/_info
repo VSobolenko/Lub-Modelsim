@@ -9,36 +9,36 @@ z2
 cModel Technology
 Z0 dD:/MS-42/temp/msim
 T_opt
-!s110 1637569374
-VN^XmjKhZ`IIGc[X@]?B7c3
-04 4 3 work main fun 1
-=1-38d547b769e9-619b535b-c6-aa4
-Z1 o-quiet -auto_acc_if_foreign -work work
+!s110 1638173233
+V:hPco]8=l^ciJ^cO4dOH30
+Z1 04 9 8 work test_main behavior 1
+=1-38d547b769e9-61a48a31-d7-b78
+o-quiet -auto_acc_if_foreign -work work +acc=bcglnprst+test_main(behavior) +acc=bcglnprst+main(fun)
 Z2 tCvgOpt 0
 n@_opt
 Z3 OL;O;10.6d;65
 R0
 T_opt1
-!s110 1637569669
-VeT1D<QPQlcD7@eoBjZZ]P0
-Z4 04 9 8 work test_main behavior 1
-=1-38d547b769e9-619b5485-2a9-146c
+!s110 1638173911
+Vn2n:3QEL3Y`QQ57Q^>Wa;2
 R1
+=1-38d547b769e9-61a48cd6-3d1-1560
+Z4 o-quiet -auto_acc_if_foreign -work work +acc=bcglnprst+main(fun)
 R2
 n@_opt1
 R3
-R0
 T_opt2
-!s110 1637569976
-V?JWIThKEYhdz^3fL<A2_[3
+!s110 1638173865
+VkG1dXz]bAnP<G^9aJ1bI53
+04 4 3 work main fun 1
+=1-38d547b769e9-61a48ca8-3a3-1c78
 R4
-=1-38d547b769e9-619b55b8-2c5-150c
-o-quiet -auto_acc_if_foreign -work work +acc=bcglnprst+test_main(behavior)
 R2
 n@_opt2
 R3
+R0
 Emain
-Z5 w1637569264
+Z5 w1638173825
 R0
 Z6 8D:\MS-42\temp\msim\newFile.vhd
 Z7 FD:\MS-42\temp\msim\newFile.vhd
@@ -48,9 +48,9 @@ VX`9_HJ0e?k8o;S<<AJzT@1
 !s100 ZQo0WBCf:1=X5`Jh?IIo81
 Z8 OL;C;10.6d;65
 32
-Z9 !s110 1637569268
+Z9 !s110 1638173851
 !i10b 1
-Z10 !s108 1637569268.000000
+Z10 !s108 1638173851.000000
 Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|D:\MS-42\temp\msim\newFile.vhd|
 Z12 !s107 D:\MS-42\temp\msim\newFile.vhd|
 !i113 0
@@ -60,8 +60,8 @@ Afun
 DEx4 work 4 main 0 22 X`9_HJ0e?k8o;S<<AJzT@1
 l7
 L6
-VVMzYdNi:A[co56Tn9lQQH3
-!s100 ?cW<@<5=lPZUGJnALag9l0
+V9j[`]h5U64bEnB>XhTo3b3
+!s100 ;;C30UiWTIFI42PD_49Ll2
 R8
 32
 R9
