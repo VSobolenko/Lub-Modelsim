@@ -1,0 +1,64 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+Eex2
+Z0 w1638176155
+Z1 dD:/MS-42/temp/msim/Task2
+Z2 8D:\MS-42\temp\msim\Task2\ex2.vhd
+Z3 FD:\MS-42\temp\msim\Task2\ex2.vhd
+l0
+L1
+VeXhD^0HIhT7`TmVlaiJ630
+!s100 ]lCzlT;@if17;Cd@<eDoJ2
+Z4 OL;C;10.6d;65
+32
+Z5 !s110 1638176165
+!i10b 1
+Z6 !s108 1638176165.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|D:\MS-42\temp\msim\Task2\ex2.vhd|
+Z8 !s107 D:\MS-42\temp\msim\Task2\ex2.vhd|
+!i113 0
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Afun_ex2
+Z11 DEx4 work 3 ex2 0 22 eXhD^0HIhT7`TmVlaiJ630
+l7
+L6
+Z12 VQ[n@cF_]oMR6GGR[`<^IQ3
+Z13 !s100 9K0zKm;4^Lz1VEaj<8T_R2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 0
+R9
+R10
+Elab2var30
+R0
+R1
+R2
+R3
+l0
+L11
+VNQ16Na<20ZB[?DEdCI0L10
+!s100 CDhVIE]]TBe0M:=V_L9hf2
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 0
+R9
+R10

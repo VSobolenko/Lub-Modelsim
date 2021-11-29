@@ -1,0 +1,22 @@
+D:/MS-42/temp/msim/Task2/ex2.vhd {0 {vcom -work work -2002 -explicit -vopt {D:\MS-42\temp\msim\Task2\ex2.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+Start time: 11:56:05 on Nov 29,2021
+vcom -reportprogress 300 -work work -2002 -explicit -vopt D:\MS-42\temp\msim\Task2\ex2.vhd 
+-- Loading package STANDARD
+-- Compiling entity ex2
+-- Compiling architecture fun_ex2 of ex2
+-- Compiling entity lab2var30
+-- Compiling architecture func of lab2var30
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(35): (vcom-1141) Identifier "na3o2" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(37): (vcom-1141) Identifier "noa2" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(38): (vcom-1141) Identifier "nao22" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(42): (vcom-1141) Identifier "nao2" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(43): (vcom-1141) Identifier "na3" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(47): (vcom-1141) Identifier "noa22" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(48): (vcom-1141) Identifier "a3" does not identify a component declaration.
+** Error (suppressible): D:\MS-42\temp\msim\Task2\ex2.vhd(51): (vcom-1141) Identifier "nao2" does not identify a component declaration.
+** Error: D:\MS-42\temp\msim\Task2\ex2.vhd(52): VHDL Compiler exiting
+End time: 11:56:05 on Nov 29,2021, Elapsed time: 0:00:00
+Errors: 9, Warnings: 0
+
+} {18.0 19.0} {}}
